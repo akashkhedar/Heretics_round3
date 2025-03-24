@@ -1,6 +1,4 @@
-# Avrix Portfolio
-
-This is the portfolio project for **Avrix**, a creative digital studio. The portfolio is designed to showcase the studio's work and features a sleek, modern design with interactive elements and a custom circular badge. The page includes a bold hero section with the message "BUILD GREAT PORTFOLIO" and an "AWARD WINNING AGENCY" badge styled as a circle.
+#Autocoder R3
 
 ## Features
 - **Responsive Layout**: Fully responsive, adapting to various screen sizes.
